@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sharma.shubham.quoteking" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/quote_ic"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MotivationalQuotes"
+            android:label="Motivational Quotes" >
+        </activity>
+        <activity
+            android:name=".QuoteInfo"
+            android:label="@string/app_name" >
+        </activity>
+        <activity
+            android:name=".LoveQuotes"
+            android:label="Love Quotes" >
+        </activity>
+        <activity
+            android:name=".FamilyQuotes"
+            android:label="Family Quotes" >
+        </activity>
+        <activity
+            android:name=".FriendshipQuotes"
+            android:label="Friendship Quotes" >
+        </activity>
+        <activity
+            android:name=".HumorQuotes"
+            android:label="Humor Quotes" >
+        </activity>
+        <activity
+            android:name=".JobQuotes"
+            android:label="Job Quotes" >
+        </activity>
+        <activity
+            android:name=".SuccessQuotes"
+            android:label="Success Quotes" >
+        </activity>
+        <activity
+            android:name=".RelationshipQuotes"
+            android:label="Relationship Quotes" >
+        </activity>
+
+    </application>
+
+</manifest>

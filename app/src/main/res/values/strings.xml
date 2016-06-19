@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Quote King</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_demo">demo</string>
+    <string name="title_activity_quote_info">QuoteInfo</string>
+    <string name="title_activity_love_quotes">LoveQuotes</string>
+</resources>
