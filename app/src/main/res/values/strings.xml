@@ -1,0 +1,8 @@
+<resources xmlns:xliff="http://schemas.android.com/tools">
+    <string name="app_name">Quote King</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_quote_info">QuoteInfo</string>
+    <string name="quotes_list_format"><xliff:g id="quote">%1$s</xliff:g> \n\n - <xliff:g id="author">%2$s</xliff:g></string>
+    <string name="quote_info_format">\"<xliff:g id="quote">%1$s</xliff:g>\" \n\n - <xliff:g id="author">%2$s</xliff:g></string>
+</resources>
